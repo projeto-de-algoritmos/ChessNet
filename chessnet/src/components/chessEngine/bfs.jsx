@@ -32,7 +32,7 @@ function bfs(start, end ,nxn) {
         const nextY = currY + move[1];
         const next = [nextX, nextY];
   
-        if (nextX >= 0 && nextX <= nxn && nextY >= 0 && nextY <= nxn && !visited[next]) {
+        if (nextX >= 0 && nextX <= nxn-1 && nextY >= 0 && nextY <= nxn-1 && !visited[next]) {
           queue.push(next);
           visited[next] = true;
           steps[next] = [...steps[curr], next];
