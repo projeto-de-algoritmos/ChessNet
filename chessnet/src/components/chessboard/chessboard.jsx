@@ -102,7 +102,7 @@ const ChessBoard = () => {
           <span>N x N </span>
           ChessNet
         </h2>
-        <input type="number" placeholder="Enter the Dimension" onChange={(e) => setDimension(e.target.value)} />
+        <input type="number" placeholder="Digite Dimensoes" onChange={(e) => setDimension(e.target.value)} />
         <div>Passos: {steps.join(' -> ')} </div>
 
 <section style={chessBox}>
