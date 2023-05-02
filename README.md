@@ -31,7 +31,10 @@ Com isso o Jogo vai mostrar movimentos necessarios para chegar ate esse posicao<
 **Framework/Biblioteca**: React.js<br>
 Voce precisa do Node.js(16+) pra rodar mas Colocamos no gitpages [link](https://projeto-de-algoritmos.github.io/Grafo1_ChessNet/)
 
+## Uso
+O jogo disponível no link https://projeto-de-algoritmos.github.io/Grafo1_ChessNet/
 
+Após acessar o link, basta digitar a dimensão do tabuleiro, posicionar o cavalo com o botão direito do mouse e selecionar o local que se deseja chegar com o botão esquerdo do mouse.
 
 
 
