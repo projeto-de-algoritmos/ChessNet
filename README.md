@@ -29,7 +29,7 @@ Com isso o Jogo vai mostrar movimentos necessarios para chegar ate esse posicao<
 ## Instalação 
 **Linguagem**: Javacsript<br>
 **Framework/Biblioteca**: React.js<br>
-Voce precisa do Node.js(16+) pra rodar mas Colocamos no gitpages [link](https://projeto-de-algoritmos.github.io/ChessNet/)
+Voce precisa do Node.js(16+) pra rodar mas Colocamos no gitpages [link](https://projeto-de-algoritmos.github.io/Grafo1_ChessNet/)
 
 
 
