@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ChessNet/static/css/main.6a683d6c.css",
-    "main.js": "/ChessNet/static/js/main.a0cfe78c.js",
-    "index.html": "/ChessNet/index.html",
-    "main.6a683d6c.css.map": "/ChessNet/static/css/main.6a683d6c.css.map",
-    "main.a0cfe78c.js.map": "/ChessNet/static/js/main.a0cfe78c.js.map"
+    "main.css": "/Grafo1_ChessNet/static/css/main.6a683d6c.css",
+    "main.js": "/Grafo1_ChessNet/static/js/main.a0cfe78c.js",
+    "index.html": "/Grafo1_ChessNet/index.html",
+    "main.6a683d6c.css.map": "/Grafo1_ChessNet/static/css/main.6a683d6c.css.map",
+    "main.a0cfe78c.js.map": "/Grafo1_ChessNet/static/js/main.a0cfe78c.js.map"
   },
   "entrypoints": [
     "static/css/main.6a683d6c.css",
